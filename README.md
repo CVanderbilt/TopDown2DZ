@@ -4,17 +4,15 @@
 
 TopDown2DZ is an exciting work-in-progress 2D top-down game inspired by SAS Zombie Assault 2. In this ongoing project, players will face hordes of zombies in waves of increasing difficulty. Your mission will be to survive, strategize, and eliminate the undead threat.
 
-## A* Algorithm and Dynamic Enemy Following Logic
+## Flow Field and Dynamic Enemy Following Logic
 
-One of the standout features of TopDown2DZ is its custom implementation of the A* algorithm for enemy movement. The A* algorithm enables intelligent pathfinding for enemies, making them actively follow players across the map.
-
-What sets this implementation apart is the dynamic logic that allows enemies to follow different players or targets depending on their distance. Each enemy will utilize the A* algorithm to find the most efficient path towards its designated target.
+One of the standout features of TopDown2DZ is its innovative approach to enemy movement. Instead of using the A* algorithm to get the path from each enemy to the nearest player, the game employs A* from the players to create a flow field that guides the enemies' movements.
 
 ### Flow Field for Efficient Pathfinding
 
 To achieve smooth movement and efficient navigation, a grid of nodes will be generated. Each node will detect whether it falls within an obstacle, a window, or open space, influencing the cost associated with traversing that node.
 
-These nodes will then be used to compute a flow field, starting from the player's location and propagating values to adjacent nodes. This flow field will facilitate reaching all reachable nodes from the source node, creating an organized path for the enemies to follow.
+Starting from the player's location, A* will be performed to compute a flow field that propagates values to adjacent nodes. This flow field will guide the enemies' movements by providing directional information for efficient pathfinding towards the players.
 
 ## Multi-Grid System for Optimized Layouts
 
@@ -51,3 +49,5 @@ TopDown2DZ is currently in development, and we are actively working on implement
 ## Note: Ongoing Development
 
 Please note that TopDown2DZ is still a work-in-progress and not a published game. The project is continually evolving, and we are excited to bring new features, content, and improvements as development progresses.
+
+Stay tuned for updates and follow the project's development journey!
