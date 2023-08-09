@@ -34,7 +34,7 @@ TopDown2DZ will offer a variety of enemy types, each with its unique abilities a
 As for the players, they will have access to a range of weapons to defend against the undead horde. The arsenal will include pistols, SMGs, assault rifles, sniper rifles, and even a missile launcher with splash damage!
 
 Weapons:  
-
+![GIF 3](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA3eXMxaGMya3FrZWN1OGk4cmNjNTZ5eTg4aTNhcHlsZzEwMmFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9x0p0B54GG34c2nf5/giphy.gif)
 ||||
 |-----------------------|------------------------|-----------------------|
 | ![GIF 1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5vcm1ld2d3b20xbzdvem90YXlxdzloOTc3N3Z6ZTNwZHo3Z3MwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amTLZka5OMRIYPeMAT/giphy.gif) | ![GIF 3](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA3eXMxaGMya3FrZWN1OGk4cmNjNTZ5eTg4aTNhcHlsZzEwMmFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9x0p0B54GG34c2nf5/giphy.gif) | ![GIF 6](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ3ZnVuN2NxeGw4bzNmZzBuZ20xd2J3ZzRxYnYyMjdlczE5MDMydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uIvcg3vg6yoahxDFno/giphy.gif) |
