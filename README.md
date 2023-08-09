@@ -33,14 +33,16 @@ TopDown2DZ will offer a variety of enemy types, each with its unique abilities a
 
 As for the players, they will have access to a range of weapons to defend against the undead horde. The arsenal will include pistols, SMGs, assault rifles, sniper rifles, and even a missile launcher with splash damage!
 
-Weapons:
+Weapons:  
+
 ||||
 |-----------------------|------------------------|-----------------------|
 | ![GIF 1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5vcm1ld2d3b20xbzdvem90YXlxdzloOTc3N3Z6ZTNwZHo3Z3MwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amTLZka5OMRIYPeMAT/giphy.gif) | ![GIF 3](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA3eXMxaGMya3FrZWN1OGk4cmNjNTZ5eTg4aTNhcHlsZzEwMmFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9x0p0B54GG34c2nf5/giphy.gif) | ![GIF 6](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ3ZnVuN2NxeGw4bzNmZzBuZ20xd2J3ZzRxYnYyMjdlczE5MDMydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uIvcg3vg6yoahxDFno/giphy.gif) |
 | ![GIF 2](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBreGc3N3F6dWx1Z3d2djgzNTUzNTI2eHpqdTcybmF5aGdyOWk3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FN6Tgb7ZBTGaxvRsZM/giphy.gif) | ![GIF 4](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9pOWhveGI5c2EwMDVoaDE4YnNzb2t0Z2pqdGN1bDUzN21vanVpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFjrnm4FLbhFXuHgzp/giphy.gif) | ![GIF 7](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZwbW1wamMxc3QzZWI2Nmw3bWVuYmVzenUyZndma3M4amkwYnNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PalrIYHVn8Dndaxnuk/giphy.gif) |
 |                       | ![GIF 5](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd5YTBkdGl3bTlnaHB6MWd1bDZ6Y2Z1bXkxbjBpNnV3ZW52OTdtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sXwd0dfFlylEvTSDL4/giphy.gif) |                       |
 
-Enemies:
+Enemies:  
+
 |||
 |-----------------------|------------------------|
 | Big zombie: lots of health and lots of damage ![GIF 1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdqaGVveGNnOHFoamQ1MDRza201aTk0cXBqaXVzajNvZnhxdHJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eJ3gLeSv2Ba6O6JhT/giphy.gif)| Fast zombie: low health + faster than regular ![GIF 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb243MmlxcTBiNHVjamhiNDAyeG9odnV4ajBmbnltaDViaXBkN3RhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHv6Fzr8lizzldXSVt/giphy.gif)|
