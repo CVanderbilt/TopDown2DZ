@@ -10,7 +10,7 @@ One of the standout features of TopDown2DZ is its innovative approach to enemy m
 
 To achieve smooth movement and efficient navigation, a grid of nodes will be generated. Each node will detect whether it falls within an obstacle, a window, or open space, influencing the cost associated with traversing that node.
 
-The grid setup is straightforward. We simply position it, choose the row and column count, and adjust the node spacing. Greater spacing reduces node count, but also decreases obstacle detection accuracy and path generation precision.
+The grid setup is straightforward. We simply position it, choose the row and column count, and adjust the node spacing. Greater spacing reduces node count, but also decreases obstacle detection accuracy and path generation precision.  
 ![Grid setup](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFzbnRwMHJ0N2RmbzNnODFndWJ3ZGZnOHhpZm92ZWFwM2YyOWJncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rdd3GGr4ivuEEFdjuZ/giphy.gif)
 
 Starting from the player's location, A* will be performed to compute a flow field that propagates values to adjacent nodes. This flow field will guide the enemies' movements by providing directional information for efficient pathfinding towards the players.
@@ -21,11 +21,10 @@ To optimize the layout of the map, TopDown2DZ will employ a multi-grid system. D
 
 This approach will avoid the need for using a single large grid with many unused nodes, reducing computational overhead. Additionally, this system will enable the creation of stairs, allowing players to traverse between different floors of the map seamlessly.
 
-![Flow Field and Multi-Grid System](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRta3JtZXMzNWwyMmZoeGV6aTh0MGhtbzR5Z3duMjUycGRleGFudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8uABjxp9kJ4WQYxd/giphy.gif)
-
-![Stairs](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBiaHl2MXZmejU2NjNudWliaXFsMWpqajlzZmZxODQ3NnBoenoyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DHYBdLKi5ErXRBg3z/giphy.gif)
-
-![Stairs 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl6M3JpOHlmbThnam4yNm5kMHY2cTh3ZHhvNHRkZG1pdXRrOHIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHmbFvLgksUkiBXhno/giphy.gif)
+|||
+|-----------------------|------------------------|
+| ![Flow Field and Multi-Grid System](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRta3JtZXMzNWwyMmZoeGV6aTh0MGhtbzR5Z3duMjUycGRleGFudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8uABjxp9kJ4WQYxd/giphy.gif) | ![Stairs](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBiaHl2MXZmejU2NjNudWliaXFsMWpqajlzZmZxODQ3NnBoenoyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6DHYBdLKi5ErXRBg3z/giphy.gif) |
+| ![Stairs 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl6M3JpOHlmbThnam4yNm5kMHY2cTh3ZHhvNHRkZG1pdXRrOHIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHmbFvLgksUkiBXhno/giphy.gif) | |
 
 ## Diverse Enemy Types and Weapons
 
