@@ -45,8 +45,8 @@ Enemies:
 
 |||
 |-----------------------|------------------------|
-| Big zombie: lots of health and lots of damage ![GIF 1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdqaGVveGNnOHFoamQ1MDRza201aTk0cXBqaXVzajNvZnhxdHJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eJ3gLeSv2Ba6O6JhT/giphy.gif)| Fast zombie: low health + faster than regular ![GIF 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb243MmlxcTBiNHVjamhiNDAyeG9odnV4ajBmbnltaDViaXBkN3RhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHv6Fzr8lizzldXSVt/giphy.gif)|
-| Gray zombie: faster and stronger than regular ![GIF 3](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpNDc4YmRmNGphbGN2dWkzN25xbXdjNzNpZGl1YW4xNTZxcWx3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32JVUV4ULuGZTMxmk7/giphy.gif)| Regular zombie: basic enemy unit, not special ![GIF 4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoaWg3MjFhaHp4eGFkZXpjY3pkNjlxNDl4NTU0dmNlc2p3aHkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pn8jcnHFNEgq4EwrtW/giphy.gif)|
+| ![GIF 1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdqaGVveGNnOHFoamQ1MDRza201aTk0cXBqaXVzajNvZnhxdHJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eJ3gLeSv2Ba6O6JhT/giphy.gif)| ![GIF 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb243MmlxcTBiNHVjamhiNDAyeG9odnV4ajBmbnltaDViaXBkN3RhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHv6Fzr8lizzldXSVt/giphy.gif)|
+| ![GIF 3](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpNDc4YmRmNGphbGN2dWkzN25xbXdjNzNpZGl1YW4xNTZxcWx3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32JVUV4ULuGZTMxmk7/giphy.gif)| ![GIF 4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdoaWg3MjFhaHp4eGFkZXpjY3pkNjlxNDl4NTU0dmNlc2p3aHkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pn8jcnHFNEgq4EwrtW/giphy.gif)|
 
 ## Chalk Painted Weapons and Interactive Elements
 
